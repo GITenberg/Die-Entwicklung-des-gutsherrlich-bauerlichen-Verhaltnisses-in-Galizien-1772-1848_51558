@@ -1,0 +1,27 @@
+_repo: Die-Entwicklung-des-gutsherrlich-bauerlichen-Verhaltnisses-in-Galizien-1772-1848_51558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Von Mises, Ludwig
+    alias: Mises, Ludwig von
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '46471'
+    url: http://www.gutenberg.org/2009/agents/46471
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51558'
+  lccn: '03016325'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Galicia (Poland and Ukraine)'
+- !lcsh 'Agricultural laborers -- Galicia (Poland and Ukraine)'
+- !lcc 'HB'
+- GITenberg
+title: Die Entwicklung des gutsherrlich-bäuerlichen Verhältnisses in Galizien (1772-1848)
+url: http://www.gutenberg.org/ebooks/51558
